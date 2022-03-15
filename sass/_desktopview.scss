@@ -12,7 +12,7 @@
   main {
     // display: grid;
     
-    height: 30vh;
+    height: fit-content;
     width: 50%;
     // position: absolute;
     // display: grid;
@@ -98,5 +98,26 @@
   }
 
 
+
+  .info-con-container {
+    // position: relative;
+    // position: absolute;
+    left: 133%;
+    bottom: 220%;
+    height: 5vh;
+    width: 80%;
+    
+
+
+
+  .link-share-container {
+    
+    position: absolute;
+    top:90px;
+    left: 120px;
+  }
+
+
+}
   
 }
